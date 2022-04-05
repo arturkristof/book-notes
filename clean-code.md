@@ -6,4 +6,3 @@
         started reading: Apr 5 2022
         finished reading: TBD
 
-<span style="background-color: yellow">Highlight test.</span>
