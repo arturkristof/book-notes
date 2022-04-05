@@ -3,5 +3,5 @@ I intend to move them to some kind of blog in the future, for now I categorize t
 
 # List of books
 ## Programming in general
-* [Clean Code: A Handbook of Agile Software Craftsmanship](clean-code.md)
+* [Clean Code: A Handbook of Agile Software Craftsmanship](https://github.com/arturkristof/book-notes/wiki)
 
